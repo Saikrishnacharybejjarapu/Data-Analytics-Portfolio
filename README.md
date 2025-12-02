@@ -5,7 +5,7 @@ This repository contains end-to-end BI projects built using **Power BI, Excel an
 
 ---
 
-## 🛒 Project 1: Supermarket Sales Dashboard (Power BI)
+##  Project 1: Supermarket Sales Dashboard (Power BI) 
 
 **Goal:** Analyse supermarket sales performance and help management take data-driven decisions.
 
@@ -35,5 +35,3 @@ This repository contains end-to-end BI projects built using **Power BI, Excel an
 **Tools & Skills:** Power BI, Power Query, DAX, Data Modelling, Data Cleaning, Data Visualization
 
 ---
-
-_More Power BI / data analytics projects will be added soon._
